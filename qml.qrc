@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>arrow.png</file>
+        <file>GridViewContainer.qml</file>
+        <file>ListViewContainer.qml</file>
+        <file>PathViewContainer.qml</file>
+        <file>ZoomImages.qml</file>
+    </qresource>
+</RCC>
